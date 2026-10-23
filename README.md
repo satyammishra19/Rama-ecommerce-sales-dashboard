@@ -23,7 +23,7 @@ The Rama Ecommerce Sales Dashboard was developed to help business stakeholders m
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](Screenshot%202026-10-23%20021847.png)
 
 ---
 
