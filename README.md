@@ -11,7 +11,7 @@ An end-to-end Power BI project that analyses the sales performance of an ecommer
 
 ## Dashboard preview
 
-![Rama Ecommerce Sales Dashboard](dashboard.png)
+![Rama Ecommerce Sales Dashboard](Screenshot 2026-10-23 021847.png)
 
 ---
 
