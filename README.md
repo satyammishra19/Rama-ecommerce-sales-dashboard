@@ -1,110 +1,71 @@
-# 📊 Rama Ecommerce Sales Dashboard
+# Rama Ecommerce Sales Dashboard
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Interactive_Dashboard-blue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Dashboard](https://img.shields.io/badge/Sales_Dashboard-Interactive-blue?style=for-the-badge)
 
-An end-to-end Power BI project focused on analyzing ecommerce sales performance, customer behavior, profit trends, and regional business insights using interactive dashboards and visualizations.
+An end-to-end Power BI project that analyses the sales performance of an ecommerce business: sales and profit, customer behaviour, payment modes and performance by state and product.
 
----
-
-## 📌 Project Overview
-
-The Rama Ecommerce Sales Dashboard was developed to help business stakeholders monitor overall sales performance and identify growth opportunities through data-driven decision-making.
-
-### Key Business Questions Addressed
-
-1. Which states generate the highest revenue?
-2. Which product categories perform the best?
-3. What are the monthly profit trends?
-4. Who are the top customers contributing to sales?
-5. How do sales and profits vary across different segments?
+> Built as a learning project by following a Rishabh Mishra Power BI tutorial on YouTube.
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard preview
 
-![Dashboard Preview](Screenshot%202026-10-23%20021847.png)
-
----
-
-## 🔑 Key Insights
-
-| Category | Major Finding |
-|----------|---------------|
-| Revenue Analysis | Identified high-performing sales regions and customers |
-| Profit Tracking | Monthly profit trends highlighted peak business periods |
-| Customer Analysis | Top customers contributed significantly to overall revenue |
-| Category Performance | Certain product categories consistently outperformed others |
-| State Analysis | Revenue concentration was observed in key states |
+![Rama Ecommerce Sales Dashboard](dashboard.png)
 
 ---
 
-## 💡 Business Recommendations
+## Key insights
 
-- Focus marketing efforts on high-performing states.
-- Increase inventory for top-selling categories.
-- Create loyalty strategies for valuable customers.
-- Monitor low-performing regions and identify improvement opportunities.
-- Use monthly trend analysis for better planning and forecasting.
-
----
-
-## 🛠️ Technical Workflow & Skills Used
-
-### Data Preparation
-- Data Cleaning
-- Data Validation
-- Data Transformation
-
-### Power BI Development
-- Data Modeling
-- DAX Calculations
-- Dashboard Design
-- KPI Development
-
-### Data Visualization
-- Interactive Slicers
-- Bar Charts
-- Pie Charts
-- KPI Cards
-- Trend Analysis
+| Area | Finding |
+| :--- | :--- |
+| **Overview** | Total sales of **438K** and profit of **37K** from **5,615 units** sold (profit margin of about 8.4%). |
+| **Category** | **Clothing makes up 63%** of units sold, followed by Electronics (21%) and Furniture (17%). |
+| **Payment mode** | **Cash on delivery is the most used (44%)**, followed by UPI (21%), Debit card (13%), Credit card (12%) and EMI (10%). |
+| **States** | **Maharashtra (0.10M)** and **Madhya Pradesh (0.09M)** lead sales, followed by Uttar Pradesh (0.04M) and Delhi (0.02M). |
+| **Profit trend** | **November had the highest profit (10.3K)**, followed by January (9.7K) and February (8.5K). May, July, September and December ended in a loss. |
+| **Sub-category** | **Printers are the most profitable (8.6K)**, then Bookcases (6.5K), Saree (4.1K), Accessories (3.4K) and Tables (3.1K). |
+| **Customers** | Top customers by amount are Harivansh (9.9K), Madhav (9.4K) and Madan Mohan (7.8K). |
 
 ---
 
-## 📂 Repository Structure
+## Recommendations
 
-- `Rama_Ecommerce_Sales_Dashboard_PowerBI.pbix`
-- `Orders.xlsx`
-- `Details.xlsx`
-- `Dashboard_Screenshot.png`
-- `README.md`
+These suggestions are based on the findings above.
 
----
-
-## 📑 Tools & Technologies
-
-- Power BI
-- Microsoft Excel
-- DAX
-- Data Analysis
-- Business Intelligence
+- **Promote high-profit products:** Push sub-categories like Printers and Bookcases.
+- **Look into loss-making months:** Check discounts and costs in May, July, September and December.
+- **Reduce COD:** Encourage UPI and prepaid payments, since COD is the largest share at 44%.
+- **Grow beyond the top states:** Maharashtra and Madhya Pradesh lead, so campaigns in other states can add sales.
 
 ---
 
-## 🎯 Skills Demonstrated
+## What the dashboard includes
 
-- Data Cleaning
-- Data Modeling
-- Dashboard Development
-- Business Intelligence
-- Data Visualization
-- Analytical Thinking
-- Report Building
+- KPI cards for total amount, profit, quantity and average
+- Sales amount by state
+- Quantity by category and by payment mode
+- Monthly profit with profit and loss shown in different colours
+- Profit by sub-category
+- Top customers by amount
+- Quarter slicer (Qtr 1 to Qtr 4) to filter the view
 
 ---
 
-## 👨‍💻 Author
+## Files in this repository
 
-**Satyam Mishra**
+| File | Description |
+| :--- | :--- |
+| `Rama Ecommerce Sales Dashboard.pbix` | Power BI report file |
+| `dashboard.png` | Preview image of the dashboard |
+| `README.md` | Project documentation |
 
-Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Excel, Power BI, SQL, and Data Visualization.
+---
+
+## About me
+
+**Satyam Mishra**, B.Tech CSE (AI) student and aspiring Data Analyst.
+
+- LinkedIn: [satyammishraaa](https://www.linkedin.com/in/satyammishraaa/)
+- GitHub: [satyammishra19](https://github.com/satyammishra19)
+- Email: mishrasatyam1912@gmail.com
